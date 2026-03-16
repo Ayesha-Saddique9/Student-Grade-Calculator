@@ -7,10 +7,15 @@ A simple **JavaScript beginner project** that calculates a student's **total mar
 # 🚀 Features
 
 ✅ Enter student name
+
 ✅ Enter registration number
+
 ✅ Enter marks for 3 subjects
+
 ✅ Calculate total marks
+
 ✅ Calculate average score
+
 ✅ Display grade automatically
 
 ---
