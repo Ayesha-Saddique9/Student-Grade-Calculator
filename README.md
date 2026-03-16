@@ -33,8 +33,11 @@ A simple **JavaScript beginner project** that calculates a student's **total mar
 The app allows a user to:
 
 1️⃣ Enter student details
+
 2️⃣ Enter subject marks
+
 3️⃣ Click **Calculate**
+
 4️⃣ View results instantly
 
 ---
@@ -67,8 +70,11 @@ student-grade-calculator
 # 💡 Future Improvements
 
 ✨ Add more subjects
+
 ✨ Add grade percentage visualization
+
 ✨ Make UI responsive
+
 ✨ Add reset button
 
 ---
